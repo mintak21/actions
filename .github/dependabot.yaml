@@ -7,6 +7,5 @@ updates:
       interval: weekly
       day: saturday
       time: "12:00"
+      timezone: Asia/Tokyo
       open-pull-requests-limit: 10
-    reviewers:
-      - mintak21
